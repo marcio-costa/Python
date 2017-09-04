@@ -1,0 +1,5 @@
+03/09/2017 11:45 	 Erro: Esta imagem não existe! 	 404 Client Error: Not Found ("pull access denied for ughurhgeh, repository does not exist or may require 'docker login'") 
+03/09/2017 11:22:01 	 Erro: Esta imagem não existe! 	 404 Client Error: Not Found ("pull access denied for ughurhgeh, repository does not exist or may require 'docker login'") 
+03/09/2017 11:22:41 	 Erro: Este comando não existe! 	 404 Client Error: Not Found ("oci runtime error: container_linux.go:262: starting container process caused "exec: \"rhgrhgdsjgks\": executable file not found in $PATH"
+") 
+03/09/2017 11:25:41 	 Erro! Falha não prevista! 	 ('Connection aborted.', ConnectionRefusedError(111, 'Connection refused')) 
