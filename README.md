@@ -1,2 +1,3 @@
 # Python
-Exercicios da aula de Pythom
+Exercicios da aula de Python
+
