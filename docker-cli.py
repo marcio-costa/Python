@@ -88,3 +88,4 @@ cmd.func(cmd)
 #criar_container("alpine", "echo vAII")
 #procurar_container("nginx")
 #remover_container()
+# show
